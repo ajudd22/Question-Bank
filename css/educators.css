@@ -1,0 +1,26 @@
+.selection-continer{
+  width: 100%;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+.educator-selection{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 25px;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+.ed-nav-button{
+  font-size: 24px;
+  background-color: #33577D;
+  height: 60px;
+  color: #f9fafb;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border: 1px solid #012e5d;
+  border-radius: 4px;
+}
+.view-bank-button, .create-tests-button{
+  background-color: #012e5d;
+
+}
