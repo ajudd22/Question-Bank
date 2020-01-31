@@ -3,6 +3,12 @@
  padding: 0;
  box-sizing: border-box;
 }
+p.footer{
+  width:100%;
+  font-size: 14px;
+  font-style: italic;
+}
+
 .page{
  display: flex;
  flex-wrap: wrap;
